@@ -4,6 +4,7 @@ Very small:
 * Executable size (~66K)
 * Recorded data file (<1K)
 * CPU and RAM usage (~0%, <10M)  
+
 Single .exe file, but can start with Windows.  
 Closing window hides application to tray.  
 To close application completely press Quit button in window or in tray Right-click menu.
